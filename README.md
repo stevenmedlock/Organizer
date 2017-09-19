@@ -1,0 +1,1 @@
+This is a project that aims to organize a students life. (More will be added)
