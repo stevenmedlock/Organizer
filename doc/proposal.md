@@ -6,4 +6,4 @@
 
 ### The user will be prompted to a login screen, showing a login with facebook button. When logged in, the user will be prompted to the main screen showing a calendar with the "to-do" information. When one clicks on a specific day, the information for that day will pop up.
 
-### The front-end code will be HTML with CSS. The back-end will be done with Python using PyCharm.
+### The front-end code will be done HTML with CSS. The back-end will be done with Python using PyCharm.
